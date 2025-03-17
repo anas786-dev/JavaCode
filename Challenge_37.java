@@ -24,6 +24,7 @@ public class Challenge_37 {
     }
 
     public static void main(String[] args) {
+        // Scanner here
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number you want to check: ");
         int num = sc.nextInt();
