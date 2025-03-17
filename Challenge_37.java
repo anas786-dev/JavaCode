@@ -22,7 +22,7 @@ public class Challenge_37 {
         }
         else return false;
     }
-
+// Trying to fix bug-112
     public static void main(String[] args) {
         // Scanner here
         Scanner sc = new Scanner(System.in);
